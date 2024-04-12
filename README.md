@@ -7,6 +7,8 @@ This code has a function named contar_vocales, wich tells you how many vocals ar
 
 In your terminal in the folder where you want the repo: git clone (SSH link)
 
-Once you have the files in your computer, enter the terminal of the folder where you download the repo.
-To run the test use: python3 test_primos.py
+Once you have the files in your computer, enter the terminal of the folder where you download the repo. /
+
+To run the test use: python3 test_primos.py /
+
 To run the vocals calculator run: python3 contar.py (when ask you to enter a string, put the sentence you want)
